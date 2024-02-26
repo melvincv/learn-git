@@ -4,3 +4,4 @@ test devel01
 test devel02
 test main03
 test main04
+test stash02
